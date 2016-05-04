@@ -1,0 +1,195 @@
+<?xml version = '1.0' encoding = 'UTF-8' ?>
+<XMI xmi.version = '1.2' xmlns:UML = 'org.omg.xmi.namespace.UML' timestamp = 'Sun May 24 12:55:02 CST 2015'>
+  <XMI.header>    <XMI.documentation>
+      <XMI.exporter>ArgoUML (using Netbeans XMI Writer version 1.0)</XMI.exporter>
+      <XMI.exporterVersion>0.34(6) revised on $Date: 2010-01-11 22:20:14 +0100 (Mon, 11 Jan 2010) $ </XMI.exporterVersion>
+    </XMI.documentation>
+    <XMI.metamodel xmi.name="UML" xmi.version="1.4"/></XMI.header>
+  <XMI.content>
+    <UML:Model xmi.id = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DA1'
+      name = 'compenent' isSpecification = 'false' isRoot = 'false' isLeaf = 'false'
+      isAbstract = 'false'>
+      <UML:Namespace.ownedElement>
+        <UML:Component xmi.id = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DA2'
+          name = 'AddtoShopcart' isSpecification = 'false' isRoot = 'false' isLeaf = 'false'
+          isAbstract = 'false'>
+          <UML:ModelElement.clientDependency>
+            <UML:Dependency xmi.idref = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DAF'/>
+            <UML:Dependency xmi.idref = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DB1'/>
+          </UML:ModelElement.clientDependency>
+        </UML:Component>
+        <UML:Component xmi.id = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DA7'
+          name = 'Login' isSpecification = 'false' isRoot = 'false' isLeaf = 'false'
+          isAbstract = 'false'>
+          <UML:ModelElement.clientDependency>
+            <UML:Dependency xmi.idref = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DB9'/>
+            <UML:Dependency xmi.idref = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DBA'/>
+          </UML:ModelElement.clientDependency>
+        </UML:Component>
+        <UML:Component xmi.id = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DA4'
+          name = 'CreateOrder' isSpecification = 'false' isRoot = 'false' isLeaf = 'false'
+          isAbstract = 'false'>
+          <UML:ModelElement.clientDependency>
+            <UML:Dependency xmi.idref = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DB2'/>
+          </UML:ModelElement.clientDependency>
+        </UML:Component>
+        <UML:Component xmi.id = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DA5'
+          name = 'DeleteFromShopcart' isSpecification = 'false' isRoot = 'false' isLeaf = 'false'
+          isAbstract = 'false'>
+          <UML:ModelElement.clientDependency>
+            <UML:Dependency xmi.idref = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DB3'/>
+            <UML:Dependency xmi.idref = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DB4'/>
+            <UML:Dependency xmi.idref = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DB7'/>
+            <UML:Dependency xmi.idref = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DB8'/>
+          </UML:ModelElement.clientDependency>
+        </UML:Component>
+        <UML:Component xmi.id = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DA7'
+          name = 'ShopcartManage' isSpecification = 'false' isRoot = 'false' isLeaf = 'false'
+          isAbstract = 'false'>
+          <UML:ModelElement.clientDependency>
+            <UML:Dependency xmi.idref = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DB9'/>
+            <UML:Dependency xmi.idref = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DBA'/>
+          </UML:ModelElement.clientDependency>
+        </UML:Component>
+        <UML:Component xmi.id = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DA8'
+          name = 'AddtoShopcart' isSpecification = 'false' isRoot = 'false' isLeaf = 'false'
+          isAbstract = 'false'>
+          <UML:ModelElement.clientDependency>
+            <UML:Dependency xmi.idref = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DBB'/>
+          </UML:ModelElement.clientDependency>
+        </UML:Component>
+        <UML:Component xmi.id = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DB0'
+          name = 'CreateOrder' isSpecification = 'false' isRoot = 'false' isLeaf = 'false'
+          isAbstract = 'false'>
+          <UML:ModelElement.clientDependency>
+            <UML:Dependency xmi.idref = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DB5'/>
+            <UML:Dependency xmi.idref = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DB6'/>
+          </UML:ModelElement.clientDependency>
+        </UML:Component>
+         <UML:Component xmi.id = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DB0'
+          name = 'AddtoShopcart' isSpecification = 'false' isRoot = 'false' isLeaf = 'false'
+          isAbstract = 'false'>
+          <UML:ModelElement.clientDependency>
+            <UML:Dependency xmi.idref = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DB5'/>
+            <UML:Dependency xmi.idref = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DB6'/>
+          </UML:ModelElement.clientDependency>
+        </UML:Component>
+         <UML:Component xmi.id = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DB0'
+          name = 'Login' isSpecification = 'false' isRoot = 'false' isLeaf = 'false'
+          isAbstract = 'false'>
+          <UML:ModelElement.clientDependency>
+            <UML:Dependency xmi.idref = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DB5'/>
+            <UML:Dependency xmi.idref = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DB6'/>
+          </UML:ModelElement.clientDependency>
+        </UML:Component>
+         <UML:Component xmi.id = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DB0'
+          name = 'Register' isSpecification = 'false' isRoot = 'false' isLeaf = 'false'
+          isAbstract = 'false'>
+          <UML:ModelElement.clientDependency>
+            <UML:Dependency xmi.idref = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DB5'/>
+            <UML:Dependency xmi.idref = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DB6'/>
+          </UML:ModelElement.clientDependency>
+        </UML:Component>
+        <UML:Dependency xmi.id = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DB1'
+          isSpecification = 'false'>
+          <UML:Dependency.client>
+            <UML:Component xmi.idref = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DA2'/>
+          </UML:Dependency.client>
+          <UML:Dependency.supplier>
+            <UML:Component xmi.idref = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DB0'/>
+          </UML:Dependency.supplier>
+        </UML:Dependency>
+        <UML:Dependency xmi.id = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DB2'
+          isSpecification = 'false'>
+          <UML:Dependency.client>
+            <UML:Component xmi.idref = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DA4'/>
+          </UML:Dependency.client>
+          <UML:Dependency.supplier>
+            <UML:Component xmi.idref = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DB0'/>
+          </UML:Dependency.supplier>
+        </UML:Dependency>
+        <UML:Dependency xmi.id = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DB3'
+          isSpecification = 'false'>
+          <UML:Dependency.client>
+            <UML:Component xmi.idref = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DA5'/>
+          </UML:Dependency.client>
+          <UML:Dependency.supplier>
+            <UML:Component xmi.idref = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DA2'/>
+          </UML:Dependency.supplier>
+        </UML:Dependency>
+        <UML:Dependency xmi.id = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DB4'
+          isSpecification = 'false'>
+          <UML:Dependency.client>
+            <UML:Component xmi.idref = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DA5'/>
+          </UML:Dependency.client>
+          <UML:Dependency.supplier>
+            <UML:Component xmi.idref = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DB0'/>
+          </UML:Dependency.supplier>
+        </UML:Dependency>
+        <UML:Dependency xmi.id = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DB5'
+          isSpecification = 'false'>
+          <UML:Dependency.client>
+            <UML:Component xmi.idref = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DB0'/>
+          </UML:Dependency.client>
+          <UML:Dependency.supplier>
+            <UML:Component xmi.idref = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DA8'/>
+          </UML:Dependency.supplier>
+        </UML:Dependency>
+        <UML:Dependency xmi.id = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DB6'
+          isSpecification = 'false'>
+          <UML:Dependency.client>
+            <UML:Component xmi.idref = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DB0'/>
+          </UML:Dependency.client>
+          <UML:Dependency.supplier>
+            <UML:Component xmi.idref = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DA6'/>
+          </UML:Dependency.supplier>
+        </UML:Dependency>
+        <UML:Dependency xmi.id = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DB7'
+          isSpecification = 'false'>
+          <UML:Dependency.client>
+            <UML:Component xmi.idref = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DA5'/>
+          </UML:Dependency.client>
+          <UML:Dependency.supplier>
+            <UML:Component xmi.idref = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DA4'/>
+          </UML:Dependency.supplier>
+        </UML:Dependency>
+        <UML:Dependency xmi.id = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DB8'
+          isSpecification = 'false'>
+          <UML:Dependency.client>
+            <UML:Component xmi.idref = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DA5'/>
+          </UML:Dependency.client>
+          <UML:Dependency.supplier>
+            <UML:Component xmi.idref = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DA8'/>
+          </UML:Dependency.supplier>
+        </UML:Dependency>
+        <UML:Dependency xmi.id = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DB9'
+          isSpecification = 'false'>
+          <UML:Dependency.client>
+            <UML:Component xmi.idref = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DA7'/>
+          </UML:Dependency.client>
+          <UML:Dependency.supplier>
+            <UML:Component xmi.idref = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DA2'/>
+          </UML:Dependency.supplier>
+        </UML:Dependency>
+        <UML:Dependency xmi.id = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DBA'
+          isSpecification = 'false'>
+          <UML:Dependency.client>
+            <UML:Component xmi.idref = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DA7'/>
+          </UML:Dependency.client>
+          <UML:Dependency.supplier>
+            <UML:Component xmi.idref = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DA9'/>
+          </UML:Dependency.supplier>
+        </UML:Dependency>
+        <UML:Dependency xmi.id = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DBB'
+          isSpecification = 'false'>
+          <UML:Dependency.client>
+            <UML:Component xmi.idref = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DA8'/>
+          </UML:Dependency.client>
+          <UML:Dependency.supplier>
+            <UML:Component xmi.idref = '10--57--99-110--7f234d18:14d8424adda:-8000:0000000000000DA9'/>
+          </UML:Dependency.supplier>
+        </UML:Dependency>
+      </UML:Namespace.ownedElement>
+    </UML:Model>
+  </XMI.content>
+</XMI>

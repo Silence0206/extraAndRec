@@ -1,0 +1,6 @@
+<span style="font-size:18px;">
+driver=com.mysql.jdbc.Driver  
+url=jdbc:mysql://localhost:3306/components 
+username=root  
+password=456789
+</span> 
